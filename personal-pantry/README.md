@@ -24,7 +24,7 @@ In my kitchen right now I have...
 1 litre of orange juice,
 2 litres of apple juice.
 
-This example is in no particular order, but gives an example of what currently you may have in your kitchen. Each item wil be able to be organised into catergories (fruit, fridge items etc.) This brings to part 2...
+This example is in no particular order, but gives an example of what currently you may have in your kitchen. Each item will be able to be organised into catergories (fruit, fridge items etc.) This brings to part 2...
 
 Part 2: Cooking
 
@@ -60,7 +60,7 @@ I can look at this recipe list and decide, hey I want that spag bol again, hit t
 
 Perfect I have a ready made shopping list, so I can buy the exact ingredients I need. As you can see the app knew not to double up on carrots! If I bought 3 carrots, I would end up with 5 carrots, with 2 at risk of going to waste.
 
-I nip to the shop with my list, buy the ingredients, and as with a usual shopping list I can tick off the items I've collected in my trolley. Once I'm done, I can confirm all items have been purchased in the app. This then adds them back to the pantry, so whem I check the pantry I see:
+I nip to the shop with my list, buy the ingredients, and as with a usual shopping list I can tick off the items I've collected in my trolley. Once I'm done, I can confirm all items have been purchased in the app. This then adds them back to the pantry, so when I check the pantry I see:
 1 pint of milk,
 2 tomatoes,
 1 pack of noodles,
@@ -88,18 +88,18 @@ This should download all dependencies required.
 
 3. Usage and Features
 
-Usage: The idea is this app is used daily and can be used by anyone. It's most likely to be used on a mobile, but due to my current knowledge I will build a website first, then transition to the app once main features are working. It likely to be used when shopping, cooking and/or meal planning for the week.
+Usage: The idea is this app is used daily and can be used by anyone. It's most likely to be used on a mobile, but due to my current knowledge I will build a website first, then transition to the app once main features are working. It's likely to be used when shopping, cooking and meal planning for the week.
 
 Main Features:
 
 Personal Pantry - List of items currently in the kithen including the weight or amount of items.
-(Stretch Goal - To be able to record when in was bought, when i goes out of date, and nutritional data).
+(Stretch Goal - To be able to record when it was bought, when it goes out of date, and nutritional data).
 
 Cooking Section - Here you would record which ingredients used, and be able to save recipes in which these ingredients are used. Linked to the pantry so they are reduced or removed from stock once cooked with.
 (Stretch Goal - To be able to take recipes from other sources and add them to the app. Also use AI or other tools to be able to suggest a recipe based on the current items in your pantry).
 
 Shopping Section - Manually and automatically add ingredients needed either because you are out of them or a recipe you selected requires them. Checklist you can share with others, and tick off as you pick up the items in the shop. Finally easily add to pantry once items are bought
-(Stretch Goal -  Have favourite items, such as milk, which can be added automatically when the are low or finished. Also to be able to scan the barcode on items with the camera on phone to add to list. This would also give financial info that could be saved for the data part).
+(Stretch Goal - Have favourite items, such as milk, which can be added automatically when they are low or finished. Also to be able to scan the barcode on items with the camera on phone to add to list. This would also give financial info that could be saved for the data part).
 
 Stretch Stretch Goal
 Data Analysis of the following:
