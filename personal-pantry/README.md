@@ -125,3 +125,5 @@ Component based structure.
 
 This app is currently deployed on netlify, so no pushing to main.
 Feel free to clone, create your own branch then raise a pull request for review to go to dev branch.
+
+The logo of the app may be a 3D cube taken from a React 3D library.
