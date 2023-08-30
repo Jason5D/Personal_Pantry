@@ -130,3 +130,4 @@ Component based structure.
 
 This app is currently deployed on netlify, so no pushing to main.
 Feel free to clone, create your own branch then raise a pull request for review to go to dev branch.
+Attempted to compare and pull request to main. Request was denied. Will a, c and p edits to re-create pull request on git hub. 
