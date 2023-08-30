@@ -109,11 +109,13 @@ Best use of items
 Most used / least used
 Most wasted
 Used in most or least recipes
+Savings made from app use could be redirected towards the ISA or similar investment of end users choice.
 And many more...
 
 4. Technologies Used
 
 Initally this will be built in React, but future plans are to port this to React native for App use.
+Burger menu may take on a cube like logo to represent the 3 parts of the app. The cube would be rerieved from React 3D library.
 Mongo DB will be used for the database.
 First app to be built will be for Apple.
 
