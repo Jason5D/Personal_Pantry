@@ -109,11 +109,13 @@ Best use of items
 Most used / least used
 Most wasted
 Used in most or least recipes
+Savings of end user may be redirected to ISA account or similar investment
 And many more...
 
 4. Technologies Used
 
 Initally this will be built in React, but future plans are to port this to React native for App use.
+The logo of the app may be a 3D cube taken from a React 3D library.
 Mongo DB will be used for the database.
 First app to be built will be for Apple.
 
@@ -126,4 +128,4 @@ Component based structure.
 This app is currently deployed on netlify, so no pushing to main.
 Feel free to clone, create your own branch then raise a pull request for review to go to dev branch.
 
-The logo of the app may be a 3D cube taken from a React 3D library.
+
