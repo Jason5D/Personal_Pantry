@@ -113,9 +113,14 @@ And many more...
 
 4. Technologies Used
 
-Initally this will be built in React, but future plans are to port this to React native for App use.
-Mongo DB will be used for the database.
 First app to be built will be for Apple.
+
+Front End
+Initally this will be built in React, but future plans are to port this to React native for App use.
+CSS will be used for styling.
+Mongo DB will be used for the database.
+Note: Directive to explore the possibilities of hosting multiple databases with one fetching data from a 3rd party API to populate one and the other being the user data. The user data may be hard coded for the sake of this project.
+
 
 5. Documentation and Code Structure
 
